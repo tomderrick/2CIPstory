@@ -1,0 +1,66 @@
+{
+  "id" : "https://tomderrick.github.io/2CIPstory/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in tomderrick/2CIPstory project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2765,
+    "id" : "https://tomderrick.github.io/2CIPstory/images/rebuked/canvas/",
+    "label" : {
+      "none" : [ "rebuked" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://tomderrick.github.io/2CIPstory/images/rebuked/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://tomderrick.github.io/2CIPstory/images/rebuked/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 87,
+              "height" : 52
+            }, {
+              "width" : 173,
+              "height" : 103
+            }, {
+              "width" : 346,
+              "height" : 206
+            }, {
+              "width" : 692,
+              "height" : 411
+            }, {
+              "width" : 1383,
+              "height" : 821
+            }, {
+              "width" : 2765,
+              "height" : 1641
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2765,
+            "@id" : "https://tomderrick.github.io/2CIPstory/images/rebuked",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1641
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2765,
+          "id" : "https://tomderrick.github.io/2CIPstory/images/rebuked/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1641
+        },
+        "target" : "https://tomderrick.github.io/2CIPstory/images/rebuked/canvas/"
+      } ]
+    } ],
+    "height" : 1641
+  } ]
+}
