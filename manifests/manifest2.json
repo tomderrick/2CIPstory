@@ -29,7 +29,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:illustrations",
         "resource" : {
-          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100052345890.0x000017/full/full/0/default.jpg",
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100052345890.0x000017/full/full/90/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
