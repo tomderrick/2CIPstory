@@ -1,0 +1,13 @@
+{
+  "id" : "https://tomderrick.github.io/2CIPstory/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in tomderrick/2CIPstory project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://tomderrick.github.io/2CIPstory/manifests/manifest2.json",
+    "label" : "Patyabhābe Patibratāra Kheda"
+  } ]
+}
