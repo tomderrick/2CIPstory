@@ -1,0 +1,182 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://tomderrick.github.io/2CIPstory/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Patyabhābe Patibratāra Kheda",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A series of illustrations from a poem depitcing a rift between a husband and wife",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/publicdomain/mark/1.0/",
+  "attribution" : "Item supplied by the British Library",
+  "sequences" : [ {
+    "@id" : "http://da073fcf-2f93-4884-b197-ef6251c4e516",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://961ae965-9af5-4694-af52-dc21b4bc1d25",
+      "@type" : "sc:Canvas",
+      "label" : "A wife rebuking her husband",
+      "height" : 2765,
+      "width" : 1641,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6d4ce70d-eb1f-42a9-ab29-2ef73c0d1cb5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:illustrations",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100052345890.0x000017/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100052345890.0x000017",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 2765,
+          "width" : 1641
+        },
+        "on" : "http://961ae965-9af5-4694-af52-dc21b4bc1d25"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a50894cd-2021-45ae-bc55-0fe0911b7c8e",
+      "@type" : "sc:Canvas",
+      "label" : "The husband apologising to his wife",
+      "height" : 2765,
+      "width" : 1652,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://56a72fb2-b294-4d71-a6fd-615bd1a03e44",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:illustrations",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100052345890.0x00001b/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100052345890.0x00001b",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 2765,
+          "width" : 1652
+        },
+        "on" : "http://a50894cd-2021-45ae-bc55-0fe0911b7c8e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e3610109-449f-4a5b-9692-c33d5664a03a",
+      "@type" : "sc:Canvas",
+      "label" : "Husband and wife reunite",
+      "height" : 2765,
+      "width" : 1592,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2f6db6db-01d8-4028-a532-7a036c60195e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:illustrations",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100052345890.0x00001f/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100052345890.0x00001f",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 2765,
+          "width" : 1592
+        },
+        "on" : "http://e3610109-449f-4a5b-9692-c33d5664a03a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6c9a2bd7-da36-4462-95d0-c104f466ed08",
+      "@type" : "sc:Canvas",
+      "label" : "The wife finds the husband lying dead after a hunting incident",
+      "height" : 2765,
+      "width" : 1592,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fcef7993-38b8-426f-96f7-31540f1946a6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:illustrations",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100052345890.0x000025/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100052345890.0x000025",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 2765,
+          "width" : 1592
+        },
+        "on" : "http://6c9a2bd7-da36-4462-95d0-c104f466ed08"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://41f25265-29fd-4198-a2c3-b88ad3bda409",
+      "@type" : "sc:Canvas",
+      "label" : "A prayer to the Goddess Kali to resurrect her husband",
+      "height" : 2765,
+      "width" : 1592,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c1dbe2c6-063f-41fc-a2ed-d3e215abbc79",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:illustrations",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100052345890.0x00002d/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100052345890.0x00002d",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 2765,
+          "width" : 1592
+        },
+        "on" : "http://41f25265-29fd-4198-a2c3-b88ad3bda409"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/r0",
+    "@type" : "sc:Range",
+    "label" : "Table of Contents",
+    "members" : [ {
+      "@id" : "http://example.org/iiif/book1/range/r1",
+      "@type" : "sc:Range",
+      "label" : "Introduction"
+    } ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r1",
+    "@type" : "sc:Range",
+    "label" : "Introduction",
+    "canvases" : [ "http://961ae965-9af5-4694-af52-dc21b4bc1d25" ]
+  } ]
+}
