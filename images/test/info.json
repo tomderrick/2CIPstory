@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 32,
+    "height" : 25
+  }, {
+    "width" : 63,
+    "height" : 50
+  }, {
+    "width" : 126,
+    "height" : 100
+  }, {
+    "width" : 252,
+    "height" : 200
+  }, {
+    "width" : 503,
+    "height" : 400
+  }, {
+    "width" : 1006,
+    "height" : 800
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1006,
+  "@id" : "https://tomderrick.github.io/2CIPstory/images/test",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 800
+}
