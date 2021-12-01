@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 87,
+    "height" : 52
+  }, {
+    "width" : 173,
+    "height" : 104
+  }, {
+    "width" : 346,
+    "height" : 207
+  }, {
+    "width" : 692,
+    "height" : 413
+  }, {
+    "width" : 1383,
+    "height" : 826
+  }, {
+    "width" : 2765,
+    "height" : 1652
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2765,
+  "@id" : "https://tomderrick.github.io/2CIPstory/images/apology",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1652
+}
