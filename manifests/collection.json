@@ -13,9 +13,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://tomderrick.github.io/2CIPstory/manifests/manifest3.json",
     "label" : "Patyabhābe Patibratāra Kheda"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://tomderrick.github.io/2CIPstory/manifests/manifest4.json",
-    "label" : "Patyabhābe Patibratāra Kheda"
   } ]
 }
