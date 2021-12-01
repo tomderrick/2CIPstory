@@ -1,0 +1,167 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://tomderrick.github.io/2CIPstory/manifests/manifest3.json",
+  "@type" : "sc:Manifest",
+  "label" : "Patyabhābe Patibratāra Kheda",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A series of illustrations from a poem depitcing a rift between a husband and wife",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/publicdomain/mark/1.0/",
+  "attribution" : "Item supplied by the British Library",
+  "sequences" : [ {
+    "@id" : "http://65d84b77-f5aa-4da8-b9ff-1a879ec5b612",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://d1da1560-a98c-4465-a89e-bcff75ac8486",
+      "@type" : "sc:Canvas",
+      "label" : "Rebuked",
+      "height" : 1641,
+      "width" : 2765,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ef66720e-bb2c-4a47-9af4-fca65da7e346",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:illustrations",
+        "resource" : {
+          "@id" : "https://tomderrick.github.io/2CIPstory/images/rebuked/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tomderrick.github.io/2CIPstory/images/rebuked",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1641,
+          "width" : 2765
+        },
+        "on" : "http://d1da1560-a98c-4465-a89e-bcff75ac8486"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ff7be082-8828-484c-9b37-cdc6a2967b99",
+      "@type" : "sc:Canvas",
+      "label" : "Apology",
+      "height" : 1652,
+      "width" : 2765,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0ec31a26-c2e9-4105-a1bf-ffb594dd7177",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:illustrations",
+        "resource" : {
+          "@id" : "https://tomderrick.github.io/2CIPstory/images/apology/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tomderrick.github.io/2CIPstory/images/apology",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1652,
+          "width" : 2765
+        },
+        "on" : "http://ff7be082-8828-484c-9b37-cdc6a2967b99"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f0b3afd3-57a9-41b3-90cb-8d1d28b970f2",
+      "@type" : "sc:Canvas",
+      "label" : "Reuniting",
+      "height" : 1592,
+      "width" : 2765,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://01f7d929-a79b-4ceb-87fd-8a481f1b8838",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:illustrations",
+        "resource" : {
+          "@id" : "https://tomderrick.github.io/2CIPstory/images/reuniting/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tomderrick.github.io/2CIPstory/images/reuniting",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1592,
+          "width" : 2765
+        },
+        "on" : "http://f0b3afd3-57a9-41b3-90cb-8d1d28b970f2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d60594c3-dc62-4fe6-8c37-1c67370eaebc",
+      "@type" : "sc:Canvas",
+      "label" : "Forest incident",
+      "height" : 1592,
+      "width" : 2765,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://26d12a4e-de92-4280-aebd-b820d41bfb5f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:illustrations",
+        "resource" : {
+          "@id" : "https://tomderrick.github.io/2CIPstory/images/forestincident/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tomderrick.github.io/2CIPstory/images/forestincident",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1592,
+          "width" : 2765
+        },
+        "on" : "http://d60594c3-dc62-4fe6-8c37-1c67370eaebc"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://cc68d121-5bf7-4ec5-ba91-b46e5d2975e2",
+      "@type" : "sc:Canvas",
+      "label" : "A prayer",
+      "height" : 1592,
+      "width" : 2765,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://448e82de-5b11-4cc6-b126-e5c0a7212e3d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:illustrations",
+        "resource" : {
+          "@id" : "https://tomderrick.github.io/2CIPstory/images/aprayer/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tomderrick.github.io/2CIPstory/images/aprayer",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1592,
+          "width" : 2765
+        },
+        "on" : "http://cc68d121-5bf7-4ec5-ba91-b46e5d2975e2"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/r0",
+    "@type" : "sc:Range",
+    "label" : "Table of Contents",
+    "members" : [ {
+      "@id" : "http://example.org/iiif/book1/range/r1",
+      "@type" : "sc:Range",
+      "label" : "Introduction"
+    } ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r1",
+    "@type" : "sc:Range",
+    "label" : "Introduction",
+    "canvases" : [ "http://d1da1560-a98c-4465-a89e-bcff75ac8486" ]
+  } ]
+}
