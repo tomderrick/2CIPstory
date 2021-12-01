@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 87,
+    "height" : 50
+  }, {
+    "width" : 173,
+    "height" : 100
+  }, {
+    "width" : 346,
+    "height" : 199
+  }, {
+    "width" : 692,
+    "height" : 398
+  }, {
+    "width" : 1383,
+    "height" : 796
+  }, {
+    "width" : 2765,
+    "height" : 1592
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2765,
+  "@id" : "https://tomderrick.github.io/2CIPstory/images/reuniting",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1592
+}
