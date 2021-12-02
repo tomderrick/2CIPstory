@@ -22,6 +22,7 @@
       "@type" : "sc:Canvas",
       "label" : "Rebuked",
       "height" : 1641,
+      "thumbnail": "https://tomderrick.github.io/2CIPstory/images/rebuked/full/full/0/default.jpg",
       "width" : 2765,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
