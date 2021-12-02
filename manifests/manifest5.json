@@ -21,7 +21,7 @@
       "@id" : "http://d1da1560-a98c-4465-a89e-bcff75ac8486",
       "@type" : "sc:Canvas",
       "label" : "Rebuked",
-      "thumbnail": "https://tomderrick.github.io/2CIPstory/images/rebuked/full/full/0/default.jpg",
+      "thumbnail" : "https://tomderrick.github.io/2CIPstory/images/rebuked/full/full/0/default.jpg",
       "height" : 1641,
       "width" : 2765,
       "images" : [ {
