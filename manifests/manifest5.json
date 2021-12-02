@@ -48,7 +48,6 @@
       "@id" : "http://ff7be082-8828-484c-9b37-cdc6a2967b99",
       "@type" : "sc:Canvas",
       "label" : "Apology",
-      "thumbnail" : "https://tomderrick.github.io/2CIPstory/images/apology/full/full/0/default.jpg",
       "height" : 1652,
       "width" : 2765,
       "images" : [ {
@@ -75,7 +74,6 @@
       "@id" : "http://f0b3afd3-57a9-41b3-90cb-8d1d28b970f2",
       "@type" : "sc:Canvas",
       "label" : "Reuniting",
-      "thumbnail" : "https://tomderrick.github.io/2CIPstory/images/reuniting/full/full/0/default.jpg",
       "height" : 1592,
       "width" : 2765,
       "images" : [ {
@@ -102,7 +100,6 @@
       "@id" : "http://d60594c3-dc62-4fe6-8c37-1c67370eaebc",
       "@type" : "sc:Canvas",
       "label" : "Forest incident",
-      "thumbnail" : "https://tomderrick.github.io/2CIPstory/images/forestincident/full/full/0/default.jpg",
       "height" : 1592,
       "width" : 2765,
       "images" : [ {
@@ -129,7 +126,6 @@
       "@id" : "http://cc68d121-5bf7-4ec5-ba91-b46e5d2975e2",
       "@type" : "sc:Canvas",
       "label" : "A prayer",
-      "thumbnail" : "https://tomderrick.github.io/2CIPstory/images/aprayer/full/full/0/default.jpg",
       "height" : 1592,
       "width" : 2765,
       "images" : [ {
