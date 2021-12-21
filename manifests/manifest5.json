@@ -5,29 +5,35 @@
   "label" : "Patyabhābe Patibratāra Kheda",
   "metadata" : [ {
 			"label":"Title",
-			"value":"Kabitā ratnākara   / Śrī Nīlaratna Śarmma"
-		}, {
+			"value":"Patyabhābe Patibratāra Kheda "
+		},
+		{
 			"label":"Creator",
-			"value":"Śarmma, Śrī Nīlaratna"
+			"value":"Ghosha, Candranātha Dāsa"
 		},
 		{
 			"label":"Place",
-			"value":"Serampore"
+			"value":"Calcutta"
+		},
+		{
+			"label":"Publisher",
+			"value":"New Bengal Press"
 		},
 		{
 			"label":"Date",
-			"value":"1830"
+			"value":"1862"
 		},
 		{
 			"label":"Language",
 			"value":"Bengali"
-		}, {
-			"label":"Catalogue record",
-			"value":"<a href=\"http://explore.bl.uk/primo_library/libweb/action/dlDisplay.do?docId=BLL01018612715&amp;vid=BLVU1&amp;lang=en_US&amp;institution=BL\">View the catalogue record</a>"
 		},
 		{
+			"label":"Catalogue record",
+			"value":"<a href=\"http://explore.bl.uk/primo_library/libweb/action/dlDisplay.do?docId=BLL01018647056&amp;vid=BLVU1&amp;lang=en_US&amp;institution=BL\">View the catalogue record</a>"
+		},
+				{
 			"label" : "Citation",
-			"value" : "<span>Śarmma, Śrī Nīlaratna, <i>Kabitā ratnākara   / Śrī Nīlaratna Śarmma</i>, (Serampore: 1830) &lt;http://access.bl.uk/item/viewer/ark:/81055/vdc_100050976067.0x000001&gt;</span>"
+			"value" : "<span>Ghosha, Candranātha Dāsa, <i>Patyabhābe Patibratāra Kheda </i>, (Calcutta: New Bengal Press, 1862) &lt;http://access.bl.uk/item/viewer/ark:/81055/vdc_100052336886.0x000001&gt;</span>"
 		},
 	 	 	{
 	 	 	 	"label":"Digitisation funded by",
@@ -36,7 +42,8 @@
 	 	 	{
 	 	 	 	"label":"Digitised by",
 	 	 	 	"value":"The British Library"
-	 	 	} ],
+	 	 	}
+	],
   "description" : [ {
     "@value" : "A series of illustrations from a poem depitcing a rift between a husband and wife",
     "@language" : "en"
