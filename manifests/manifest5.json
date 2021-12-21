@@ -3,7 +3,10 @@
   "@id" : "https://tomderrick.github.io/2CIPstory/manifests/manifest5.json",
   "@type" : "sc:Manifest",
   "label" : "Patyabhābe Patibratāra Kheda",
-  "metadata" : [ ],
+  "metadata" : [ {
+			"label":"Title",
+			"value":"Kabitā ratnākara   / Śrī Nīlaratna Śarmma"
+		} ],
   "description" : [ {
     "@value" : "A series of illustrations from a poem depitcing a rift between a husband and wife",
     "@language" : "en"
