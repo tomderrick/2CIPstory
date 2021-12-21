@@ -6,6 +6,21 @@
   "metadata" : [ {
 			"label":"Title",
 			"value":"Kabitā ratnākara   / Śrī Nīlaratna Śarmma"
+		}, {
+			"label":"Creator",
+			"value":"Śarmma, Śrī Nīlaratna"
+		},
+		{
+			"label":"Place",
+			"value":"Serampore"
+		},
+		{
+			"label":"Date",
+			"value":"1830"
+		},
+		{
+			"label":"Language",
+			"value":"Bengali"
 		} ],
   "description" : [ {
     "@value" : "A series of illustrations from a poem depitcing a rift between a husband and wife",
