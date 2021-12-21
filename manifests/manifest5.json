@@ -48,6 +48,7 @@
     "@value" : "A series of illustrations from a poem depitcing a rift between a husband and wife",
     "@language" : "en"
   } ],
+	"logo": "https://www.bl.uk/images/bl_logo_100.gif",
   "license" : "https://creativecommons.org/publicdomain/mark/1.0/",
   "attribution" : "Item supplied by the British Library",
   "sequences" : [ {
