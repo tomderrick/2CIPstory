@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 60,
+    "height" : 110
+  }, {
+    "width" : 120,
+    "height" : 219
+  }, {
+    "width" : 240,
+    "height" : 437
+  }, {
+    "width" : 480,
+    "height" : 873
+  }, {
+    "width" : 959,
+    "height" : 1746
+  }, {
+    "width" : 1918,
+    "height" : 3492
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1918,
+  "@id" : "https://tomderrick.github.io/2CIPstory/images/306_24_E_40_0030",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3492
+}
